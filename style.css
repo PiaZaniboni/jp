@@ -10,3 +10,8 @@ p{
     font-size: 30px ;
     color: blue;
 }
+
+p{
+    font-size: 16px;
+    line-height: 22px;
+}
